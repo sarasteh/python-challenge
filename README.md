@@ -13,7 +13,7 @@ Here I create a python code to analyze the financial records, given in  **budget
 
 * The greatest decrease in profits (date and amount) over the entire period
 
-The final script print the analysis to the terminal and also export a text file(log.txt) with the results.
+The final script prints the analysis to the terminal and also exports a text file(log.txt) with the results.
 
 This folder includes the following :
 *  analysis
@@ -132,7 +132,7 @@ In PyPoll, I create a Python script that analyzes the voting results given in **
 
 * The winner of the election based on popular vote.
 
-The final script print the analysis to the terminal and also export a text file(log.txt) with the results.
+The final script prints the analysis to the terminal and also exports a text file(log.txt) with the results.
 
 This folder includes the following :
 *  analysis
